@@ -1,6 +1,9 @@
 import './letter.css'
 
 function LoveLetter(){
+    const CLIENT_ID='d6aa96b85d88460cb8bdd547cebce88c';
+    const REDIRECT_URI ='http://localhost:3000';
+
     return(
         <>
         <div id='app'>
