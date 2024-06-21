@@ -53,7 +53,7 @@
     z-index: 2;
 }
 
-/* -- Modal -- */
+/* -- Window -- */
 /* Fonts */
 .sixty-four-font {  
     font-family: "Sixtyfour", sans-serif;
@@ -158,7 +158,7 @@
 
   #window-message p {
     color: var(--text);
-    padding: 0 4vw 0 4vw;
+    padding: 0 2.5rem 0 2.5rem;
     font-size: 1.5rem;
     text-align: center;
     text-shadow: 0px 0px 8px rgb(0 0 0 / 50%);
@@ -175,13 +175,13 @@
   @media(max-width: 1024px){
     #window-actions{
         align-items: center;
-        flex-direction: column-reverse;
+        flex-direction: column;
     }
   }
 
   .window-action{
     background-color: var(--primary);
-    width: 16rem;
+    width: 13rem;
     padding: 0.85rem;
     position: relative;
     font-size: 1.25rem;
