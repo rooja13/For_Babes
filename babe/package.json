@@ -2,7 +2,7 @@
   "name": "babe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://rooja13.github.io/For_Babes",
+  "homepage": "https://rooja13.github.io/For_Babes/",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
