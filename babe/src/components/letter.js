@@ -14,7 +14,7 @@ function LoveLetter() {
         'I have so many things to tell you but so little things come out of my mouth, you should learn to read my eyes when I look at you.',
         'I\'ve always wanted to talk to someone about everything as I speak to myself, and I\'ve found that with you.',
         'Every flaw I love in you except your absence.',
-        'I don\'t know where the road or time will take us. I don\'t even know if in four weeks we\'d be together. The only the only thing that\s important to me is staying by your side for as long as possible.',
+        'I don\'t know where the road or time will take us. I don\'t even know if in four weeks we\'d be together. The only the only thing that\'s important to me is staying by your side for as long as possible.',
         'And I know that I\'ll ruin it so many times. And I\'ll try not to lose your love for it. I know I\'ll always miss you, that I know. And you\'ll never have to ask me for love.'
     ]
 
