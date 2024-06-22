@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/For_Babes/static/css/main.be595e18.css",
+    "main.js": "/For_Babes/static/js/main.2995b127.js",
+    "static/js/453.b8d54b4e.chunk.js": "/For_Babes/static/js/453.b8d54b4e.chunk.js",
+    "static/media/getyou.mp3": "/For_Babes/static/media/getyou.d662c32a126ecb4af9df.mp3",
+    "static/media/congratulations.mp3": "/For_Babes/static/media/congratulations.b78d67d873205c91a14a.mp3",
+    "static/media/heaven.mp3": "/For_Babes/static/media/heaven.7911e50ebdee4218f5d7.mp3",
+    "static/media/drank.mp3": "/For_Babes/static/media/drank.fbe3f28bc48531c5a3d3.mp3",
+    "static/media/valentine.mp3": "/For_Babes/static/media/valentine.27834d560c30b2aabe68.mp3",
+    "static/media/heart-pattern.svg": "/For_Babes/static/media/heart-pattern.ea8c604b1408b6e47fc2.svg",
+    "index.html": "/For_Babes/index.html",
+    "main.be595e18.css.map": "/For_Babes/static/css/main.be595e18.css.map",
+    "main.2995b127.js.map": "/For_Babes/static/js/main.2995b127.js.map",
+    "453.b8d54b4e.chunk.js.map": "/For_Babes/static/js/453.b8d54b4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be595e18.css",
+    "static/js/main.2995b127.js"
+  ]
+}
